@@ -1,0 +1,1 @@
+# params-ile-sinirsiz-sayida-parametre-alarak-ortalama-hesaplama
